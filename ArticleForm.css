@@ -1,0 +1,29 @@
+.articleform {
+  background-color: lightyellow;
+  padding: 20px;
+}
+
+.articleform label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.articleform input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.articleform textarea{
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.articleform button {
+  background-color: #2185d0;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+}
+
